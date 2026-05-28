@@ -10,10 +10,11 @@ Main Theme repo can be found [here](https://github.com/eldritch-theme/eldritch)
 
 ### Wallpapers
 
-- Wallpapers can be found under the [wallpaper](https://github.com/eldritch-theme/eldritch/tree/master/wallpaper) directory.
+- Wallpapers can be found under the [wallpaper](wallpaper) directory.
 - If you're using [Wallpaper Engine](https://www.wallpaperengine.io/en) we have a theme for that too [here](https://steamcommunity.com/sharedfiles/filedetails/?id=3209391257)!
   - Only supports 3440x1440 but if you'd like a different resolution let me know and I can work on it.
 
-<!-- If you want to provide install from source options, you can use the following template: -->
-<!-- ### Installation From Source -->
-<!-- 1. Any instructions here -->
+### License
+
+All wallpapers in this repository are licensed under [CC-BY-4.0](CC-BY-4.0).
+Code/scripts are licensed under [MIT](MIT).
